@@ -1,0 +1,132 @@
+22_08_00_April_17_2018 - main - ### Begin ###
+22_08_00_April_17_2018 - initialise - begin
+22_08_00_April_17_2018 - initialise - end
+22_08_00_April_17_2018 - execute - begin
+22_08_00_April_17_2018 - main - This is a test1
+22_08_00_April_17_2018 - uninitialise - begin
+22_08_00_April_17_2018 - uninitialise - end
+22_08_00_April_17_2018 - main - ### End ###
+21_42_24_April_18_2018 - main - ### Begin ###
+21_42_24_April_18_2018 - initialise - begin
+21_42_24_April_18_2018 - initialise - Exception - 'TestScript' object has no attribute 'server_address'
+21_42_24_April_18_2018 - uninitialise - begin
+21_42_24_April_18_2018 - uninitialise - end
+21_42_24_April_18_2018 - main - ### End ###
+21_43_13_April_18_2018 - main - ### Begin ###
+21_43_13_April_18_2018 - initialise - begin
+21_43_13_April_18_2018 - initialise - Exception - type object 'TestScript' has no attribute 'server_address'
+21_43_13_April_18_2018 - uninitialise - begin
+21_43_13_April_18_2018 - uninitialise - end
+21_43_13_April_18_2018 - main - ### End ###
+21_44_13_April_18_2018 - main - ### Begin ###
+21_44_13_April_18_2018 - initialise - begin
+21_44_13_April_18_2018 - initialise - Exception - module 'test_script_config' has no attribute 'server_address'
+21_44_13_April_18_2018 - uninitialise - begin
+21_44_13_April_18_2018 - uninitialise - end
+21_44_13_April_18_2018 - main - ### End ###
+21_45_39_April_18_2018 - main - ### Begin ###
+21_45_39_April_18_2018 - initialise - begin
+21_45_39_April_18_2018 - initialise - Exception - type object 'TestScriptConfig' has no attribute 'serveraddress'
+21_45_39_April_18_2018 - uninitialise - begin
+21_45_39_April_18_2018 - uninitialise - end
+21_45_39_April_18_2018 - main - ### End ###
+21_47_05_April_18_2018 - main - ### Begin ###
+21_47_05_April_18_2018 - initialise - begin
+21_47_05_April_18_2018 - initialise - Exception - type object 'TestScriptConfig' has no attribute 'scripts'
+21_47_05_April_18_2018 - uninitialise - begin
+21_47_05_April_18_2018 - uninitialise - end
+21_47_05_April_18_2018 - main - ### End ###
+21_49_52_April_18_2018 - main - ### Begin ###
+21_49_52_April_18_2018 - initialise - begin
+21_49_52_April_18_2018 - initialise - Exception - module 'test_scripts_config' has no attribute 'TestScriptConfig'
+21_49_52_April_18_2018 - uninitialise - begin
+21_49_52_April_18_2018 - uninitialise - end
+21_49_52_April_18_2018 - main - ### End ###
+21_50_15_April_18_2018 - main - ### Begin ###
+21_50_15_April_18_2018 - initialise - begin
+21_50_15_April_18_2018 - initialise - Exception - type object 'TestScriptConfig' has no attribute 'serveraddress'
+21_50_15_April_18_2018 - uninitialise - begin
+21_50_15_April_18_2018 - uninitialise - end
+21_50_15_April_18_2018 - main - ### End ###
+21_50_34_April_18_2018 - main - ### Begin ###
+21_50_34_April_18_2018 - initialise - begin
+21_50_34_April_18_2018 - initialise - end
+21_50_34_April_18_2018 - execute - begin
+21_50_34_April_18_2018 - main - This is a test1
+21_50_34_April_18_2018 - uninitialise - begin
+21_50_34_April_18_2018 - uninitialise - end
+21_50_34_April_18_2018 - main - ### End ###
+21_54_00_April_18_2018 - main - ### Begin ###
+21_54_00_April_18_2018 - initialise - begin
+21_54_00_April_18_2018 - initialise - end
+21_54_00_April_18_2018 - execute - begin
+21_54_00_April_18_2018 - main - This is a test1
+21_54_00_April_18_2018 - uninitialise - begin
+21_54_00_April_18_2018 - uninitialise - end
+21_54_00_April_18_2018 - main - ### End ###
+21_54_03_April_18_2018 - main - ### Begin ###
+21_54_03_April_18_2018 - initialise - begin
+21_54_03_April_18_2018 - initialise - end
+21_54_03_April_18_2018 - execute - begin
+21_54_03_April_18_2018 - main - This is a test1
+21_54_03_April_18_2018 - uninitialise - begin
+21_54_03_April_18_2018 - uninitialise - end
+21_54_03_April_18_2018 - main - ### End ###
+21_57_31_April_18_2018 - main - ### Begin ###
+21_57_31_April_18_2018 - initialise - begin
+21_57_31_April_18_2018 - initialise - end
+21_57_31_April_18_2018 - execute - begin
+21_57_31_April_18_2018 - main - This is a test1
+21_57_31_April_18_2018 - uninitialise - begin
+21_57_31_April_18_2018 - uninitialise - end
+21_57_31_April_18_2018 - main - ### End ###
+21_58_04_April_18_2018 - main - ### Begin ###
+21_58_04_April_18_2018 - initialise - begin
+21_58_04_April_18_2018 - initialise - Exception - 'TestScriptsConfig' object has no attribute 'serveraddressp'
+21_58_04_April_18_2018 - uninitialise - begin
+21_58_04_April_18_2018 - uninitialise - end
+21_58_04_April_18_2018 - main - ### End ###
+21_58_13_April_18_2018 - main - ### Begin ###
+21_58_13_April_18_2018 - initialise - begin
+21_58_13_April_18_2018 - initialise - Exception - list indices must be integers or slices, not str
+21_58_13_April_18_2018 - uninitialise - begin
+21_58_13_April_18_2018 - uninitialise - end
+21_58_13_April_18_2018 - main - ### End ###
+21_58_39_April_18_2018 - main - ### Begin ###
+21_58_39_April_18_2018 - initialise - begin
+21_58_39_April_18_2018 - initialise - Exception - list indices must be integers or slices, not str
+21_58_39_April_18_2018 - uninitialise - begin
+21_58_39_April_18_2018 - uninitialise - end
+21_58_39_April_18_2018 - main - ### End ###
+22_00_09_April_18_2018 - main - ### Begin ###
+22_00_09_April_18_2018 - initialise - begin
+22_00_09_April_18_2018 - initialise - end
+22_00_09_April_18_2018 - execute - begin
+22_00_09_April_18_2018 - main - This is a test1
+22_00_09_April_18_2018 - uninitialise - begin
+22_00_09_April_18_2018 - uninitialise - end
+22_00_09_April_18_2018 - main - ### End ###
+22_08_45_April_18_2018 - main - ### Begin ###
+22_08_45_April_18_2018 - initialise - begin
+22_08_45_April_18_2018 - initialise - end
+22_08_45_April_18_2018 - execute - begin
+22_08_45_April_18_2018 - main - This is a test1
+22_08_45_April_18_2018 - uninitialise - begin
+22_08_45_April_18_2018 - uninitialise - end
+22_08_45_April_18_2018 - main - ### End ###
+22_09_03_April_18_2018 - main - ### Begin ###
+22_09_03_April_18_2018 - initialise - begin
+22_09_03_April_18_2018 - initialise - end
+22_09_03_April_18_2018 - execute - begin
+22_09_03_April_18_2018 - main - This is a test1
+22_09_03_April_18_2018 - uninitialise - begin
+22_09_03_April_18_2018 - uninitialise - end
+22_09_03_April_18_2018 - main - ### End ###
+22_09_16_April_18_2018 - main - ### Begin ###
+22_09_16_April_18_2018 - initialise - begin
+22_09_16_April_18_2018 - initialise - end
+22_09_16_April_18_2018 - execute - begin
+22_09_16_April_18_2018 - main - This is a test1
+22_09_16_April_18_2018 - uninitialise - begin
+22_09_16_April_18_2018 - uninitialise - end
+22_09_16_April_18_2018 - main - ### End ###

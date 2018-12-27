@@ -1,0 +1,50 @@
+1523879249994	geckodriver	INFO	geckodriver 0.19.1
+1523879250004	geckodriver	INFO	Listening on 127.0.0.1:57554
+1523879253186	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\luke\\AppData\\Local\\Temp\\rust_mozprofile.wUJwa5dkiSY3"
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+1523879258992	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+1523879272906	Marionette	INFO	Listening on port 57567
+1523879273954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523879783485	geckodriver	INFO	geckodriver 0.19.1
+1523879783495	geckodriver	INFO	Listening on 127.0.0.1:58596
+1523879786625	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\luke\\AppData\\Local\\Temp\\rust_mozprofile.FGijXlq3wTtO"
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+1523879788468	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+1523879792068	Marionette	INFO	Listening on port 58604
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+1523879792916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523884410474	geckodriver	INFO	geckodriver 0.19.1
+1523884410527	geckodriver	INFO	Listening on 127.0.0.1:58969
+1523884413611	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\luke\\AppData\\Local\\Temp\\rust_mozprofile.twnNxV3wgD4T"
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+1523884418770	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+1523884430124	Marionette	INFO	Listening on port 58978
+1523884430954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523886505749	geckodriver	INFO	geckodriver 0.19.1
+1523886505760	geckodriver	INFO	Listening on 127.0.0.1:59188
+1523886508864	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\luke\\AppData\\Local\\Temp\\rust_mozprofile.9Bkf0wjrzKBV"
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+1523886510164	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+1523886512758	Marionette	INFO	Listening on port 59197
+Unable to read VR Path Registry from C:\Users\luke\AppData\Local\openvr\openvrpaths.vrpath
+1523886513888	Marionette	WARN	TLS certificate errors will be ignored for this session

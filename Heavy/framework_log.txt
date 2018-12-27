@@ -1,0 +1,647 @@
+18_03_06_April_15_2018 - test_result_files.py : cleanup - begin
+18_03_06_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+18_03_06_April_15_2018 - test_result_files.py : findTestResultFiles - end
+18_03_06_April_15_2018 - test_result_files.py : cleanup - end
+18_03_06_April_15_2018 - test_automation.py : main - ### Begin ###
+18_03_06_April_15_2018 - test_automation.py : runTestSuite - begin
+18_03_06_April_15_2018 - python_scripts.py : run - ### Begin ###
+18_03_06_April_15_2018 - generate_test_result_file.py : generateTestResultFile - begin
+18_03_06_April_15_2018 - generate_test_result_file.py : generateTestResultFile - Exception - 'TestResultConfig' object has no attribute 'runId'
+18_03_06_April_15_2018 - python_scripts.py : run - ### End ###
+18_03_06_April_15_2018 - test_automation.py : runTestSuite - end
+18_03_06_April_15_2018 - test_automation.py : main - after running test suite
+18_03_06_April_15_2018 - test_automation.py : generateTestResultReport - begin
+18_03_06_April_15_2018 - test_result_files.py : generateReport - begin
+18_03_06_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+18_03_06_April_15_2018 - test_result_files.py : findTestResultFiles - end
+18_03_06_April_15_2018 - test_result_files.py : getTestResultStats - begin
+18_03_06_April_15_2018 - test_result_files.py : getTestResultStats - end
+18_03_06_April_15_2018 - test_result_files.py : dumpStatsToFile - begin
+18_03_06_April_15_2018 - test_result_files.py : dumpStatsToFile - end
+18_03_06_April_15_2018 - test_result_files.py : generateReport - end
+18_03_06_April_15_2018 - test_automation.py : generateTestResultReport - end
+18_03_06_April_15_2018 - test_automation.py : main - after generating test result report
+18_03_06_April_15_2018 - test_automation.py : backupTestResults - begin
+18_03_06_April_15_2018 - test_result_files.py : backup - begin
+18_03_06_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+18_03_06_April_15_2018 - test_result_files.py : findTestResultFiles - end
+18_03_06_April_15_2018 - test_automation.py : backupTestResults - end
+18_03_06_April_15_2018 - test_automation.py : main - after backup test result files
+18_03_06_April_15_2018 - test_automation.py : main - ### End ###
+
+18_04_34_April_15_2018 - test_result_files.py : cleanup - begin
+18_04_34_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+18_04_34_April_15_2018 - test_result_files.py : findTestResultFiles - end
+18_04_34_April_15_2018 - test_result_files.py : cleanup - end
+18_04_34_April_15_2018 - test_automation.py : main - ### Begin ###
+18_04_34_April_15_2018 - test_automation.py : runTestSuite - begin
+18_04_34_April_15_2018 - python_scripts.py : run - ### Begin ###
+18_04_34_April_15_2018 - generate_test_result_file.py : generateTestResultFile - begin
+18_04_34_April_15_2018 - generate_test_result_file.py : generateTestResultFile - end
+18_04_34_April_15_2018 - python_scripts.py : run - ### End ###
+18_04_34_April_15_2018 - test_automation.py : runTestSuite - end
+18_04_34_April_15_2018 - test_automation.py : main - after running test suite
+18_04_34_April_15_2018 - test_automation.py : generateTestResultReport - begin
+18_04_34_April_15_2018 - test_result_files.py : generateReport - begin
+18_04_34_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+18_04_34_April_15_2018 - test_result_files.py : findTestResultFiles - end
+18_04_34_April_15_2018 - test_result_files.py : getTestResultStats - begin
+18_04_34_April_15_2018 - test_result_files.py : getTestResultStats - end
+18_04_34_April_15_2018 - test_result_files.py : dumpStatsToFile - begin
+18_04_34_April_15_2018 - test_result_files.py : dumpStatsToFile - end
+18_04_34_April_15_2018 - test_result_files.py : generateReport - end
+18_04_34_April_15_2018 - test_automation.py : generateTestResultReport - end
+18_04_34_April_15_2018 - test_automation.py : main - after generating test result report
+18_04_34_April_15_2018 - test_automation.py : backupTestResults - begin
+18_04_34_April_15_2018 - test_result_files.py : backup - begin
+18_04_34_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+18_04_34_April_15_2018 - test_result_files.py : findTestResultFiles - end
+18_04_34_April_15_2018 - test_result_files.py : backup - end
+18_04_34_April_15_2018 - test_automation.py : backupTestResults - end
+18_04_34_April_15_2018 - test_automation.py : main - after backup test result files
+18_04_34_April_15_2018 - test_automation.py : main - ### End ###
+
+20_56_14_April_15_2018 - test_result_files.py : cleanup - begin
+20_56_14_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+20_56_14_April_15_2018 - test_result_files.py : findTestResultFiles - end
+20_56_14_April_15_2018 - test_result_files.py : cleanup - Exception - [WinError 2] The system cannot find the file specified: 'C:\\Automation Suite\\Demo Test Suite\\test_result\\test_result_report.txt'
+20_56_14_April_15_2018 - test_result_files.py : cleanup - end
+20_56_14_April_15_2018 - test_automation.py : main - ### Begin ###
+20_56_42_April_15_2018 - test_result_files.py : cleanup - begin
+20_56_42_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+20_56_42_April_15_2018 - test_result_files.py : findTestResultFiles - end
+20_56_42_April_15_2018 - test_result_files.py : cleanup - Exception - [WinError 2] The system cannot find the file specified: 'C:\\Automation Suite\\Demo Test Suite\\test_result\\test_result_report.txt'
+20_56_42_April_15_2018 - test_result_files.py : cleanup - end
+20_56_42_April_15_2018 - test_automation.py : main - ### Begin ###
+20_56_42_April_15_2018 - test_automation.py : runTestSuite - begin
+20_56_42_April_15_2018 - python_scripts.py : run - ### Begin ###
+20_56_43_April_15_2018 - generate_test_result_file.py : generateTestResultFile - begin
+20_56_43_April_15_2018 - generate_test_result_file.py : generateTestResultFile - end
+20_56_43_April_15_2018 - python_scripts.py : run - ### End ###
+20_56_43_April_15_2018 - test_automation.py : runTestSuite - end
+20_56_43_April_15_2018 - test_automation.py : main - after running test suite
+20_56_43_April_15_2018 - test_automation.py : generateTestResultReport - begin
+20_56_43_April_15_2018 - test_result_files.py : generateReport - begin
+20_56_43_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+20_56_43_April_15_2018 - test_result_files.py : findTestResultFiles - end
+20_56_43_April_15_2018 - test_result_files.py : getTestResultStats - begin
+20_56_43_April_15_2018 - test_result_files.py : getTestResultStats - end
+20_56_43_April_15_2018 - test_result_files.py : dumpStatsToFile - begin
+20_56_43_April_15_2018 - test_result_files.py : dumpStatsToFile - end
+20_56_43_April_15_2018 - test_result_files.py : generateReport - end
+20_56_43_April_15_2018 - test_automation.py : generateTestResultReport - end
+20_56_43_April_15_2018 - test_automation.py : main - after generating test result report
+20_56_43_April_15_2018 - test_automation.py : backupTestResults - begin
+20_56_43_April_15_2018 - test_result_files.py : backup - begin
+20_56_43_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+20_56_43_April_15_2018 - test_result_files.py : findTestResultFiles - end
+20_56_43_April_15_2018 - test_result_files.py : backup - end
+20_56_43_April_15_2018 - test_automation.py : backupTestResults - end
+20_56_43_April_15_2018 - test_automation.py : main - after backup test result files
+20_56_43_April_15_2018 - test_automation.py : main - ### End ###
+
+21_03_39_April_15_2018 - test_result_files.py : cleanup - begin
+21_03_39_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+21_03_39_April_15_2018 - test_result_files.py : findTestResultFiles - end
+21_03_39_April_15_2018 - test_result_files.py : cleanup - Exception - [WinError 2] The system cannot find the file specified: 'C:\\Automation Suite\\Demo Test Suite\\test_result\\test_result_report.txt'
+21_03_39_April_15_2018 - test_result_files.py : cleanup - end
+21_04_11_April_15_2018 - test_automation.py : main - ### Begin ###
+21_04_15_April_15_2018 - test_automation.py : runTestSuite - begin
+21_04_15_April_15_2018 - python_scripts.py : run - ### Begin ###
+21_04_15_April_15_2018 - generate_test_result_file.py : generateTestResultFile - begin
+21_04_15_April_15_2018 - generate_test_result_file.py : generateTestResultFile - end
+21_04_15_April_15_2018 - python_scripts.py : run - ### End ###
+21_04_15_April_15_2018 - test_automation.py : runTestSuite - end
+21_04_23_April_15_2018 - test_automation.py : main - after running test suite
+21_04_31_April_15_2018 - test_automation.py : generateTestResultReport - begin
+21_04_31_April_15_2018 - test_result_files.py : generateReport - begin
+21_04_31_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+21_04_31_April_15_2018 - test_result_files.py : findTestResultFiles - end
+21_04_31_April_15_2018 - test_result_files.py : getTestResultStats - begin
+21_04_31_April_15_2018 - test_result_files.py : getTestResultStats - end
+21_04_31_April_15_2018 - test_result_files.py : dumpStatsToFile - begin
+21_04_31_April_15_2018 - test_result_files.py : dumpStatsToFile - end
+21_04_31_April_15_2018 - test_result_files.py : generateReport - end
+21_04_31_April_15_2018 - test_automation.py : generateTestResultReport - end
+21_04_32_April_15_2018 - test_automation.py : main - after generating test result report
+21_04_32_April_15_2018 - test_automation.py : backupTestResults - begin
+21_04_32_April_15_2018 - test_result_files.py : backup - begin
+21_04_32_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+21_04_32_April_15_2018 - test_result_files.py : findTestResultFiles - end
+21_04_32_April_15_2018 - test_result_files.py : backup - end
+21_04_32_April_15_2018 - test_automation.py : backupTestResults - end
+21_04_33_April_15_2018 - test_automation.py : main - after backup test result files
+21_04_34_April_15_2018 - test_automation.py : main - ### End ###
+
+21_05_20_April_15_2018 - test_result_files.py : cleanup - begin
+21_05_20_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+21_05_20_April_15_2018 - test_result_files.py : findTestResultFiles - end
+21_05_20_April_15_2018 - test_result_files.py : cleanup - Exception - [WinError 2] The system cannot find the file specified: 'C:\\Automation Suite\\Demo Test Suite\\test_result\\test_result_report.txt'
+21_05_20_April_15_2018 - test_result_files.py : cleanup - end
+21_05_25_April_15_2018 - test_automation.py : main - ### Begin ###
+21_05_26_April_15_2018 - test_automation.py : runTestSuite - begin
+21_05_26_April_15_2018 - python_scripts.py : run - ### Begin ###
+21_06_02_April_15_2018 - generate_test_result_file.py : generateTestResultFile - begin
+21_06_02_April_15_2018 - generate_test_result_file.py : generateTestResultFile - end
+21_06_02_April_15_2018 - python_scripts.py : run - ### End ###
+21_06_02_April_15_2018 - test_automation.py : runTestSuite - end
+21_06_02_April_15_2018 - test_automation.py : main - after running test suite
+21_06_02_April_15_2018 - test_automation.py : generateTestResultReport - begin
+21_06_02_April_15_2018 - test_result_files.py : generateReport - begin
+21_06_02_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+21_06_02_April_15_2018 - test_result_files.py : findTestResultFiles - end
+21_06_02_April_15_2018 - test_result_files.py : getTestResultStats - begin
+21_06_02_April_15_2018 - test_result_files.py : getTestResultStats - end
+21_06_02_April_15_2018 - test_result_files.py : dumpStatsToFile - begin
+21_06_02_April_15_2018 - test_result_files.py : dumpStatsToFile - end
+21_06_02_April_15_2018 - test_result_files.py : generateReport - end
+21_06_02_April_15_2018 - test_automation.py : generateTestResultReport - end
+21_06_02_April_15_2018 - test_automation.py : main - after generating test result report
+21_06_02_April_15_2018 - test_automation.py : backupTestResults - begin
+21_06_02_April_15_2018 - test_result_files.py : backup - begin
+21_06_02_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+21_06_02_April_15_2018 - test_result_files.py : findTestResultFiles - end
+21_06_02_April_15_2018 - test_result_files.py : backup - end
+21_06_02_April_15_2018 - test_automation.py : backupTestResults - end
+21_06_02_April_15_2018 - test_automation.py : main - after backup test result files
+21_06_02_April_15_2018 - test_automation.py : main - ### End ###
+
+22_27_47_April_15_2018 - test_result_files.py : cleanup - begin
+22_27_47_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+22_27_47_April_15_2018 - test_result_files.py : findTestResultFiles - end
+22_27_47_April_15_2018 - test_result_files.py : cleanup - Exception - [WinError 2] The system cannot find the file specified: 'C:\\Automation Suite\\Demo Test Suite\\test_result\\test_result_report.txt'
+22_27_47_April_15_2018 - test_result_files.py : cleanup - end
+22_27_47_April_15_2018 - test_automation.py : main - ### Begin ###
+22_27_47_April_15_2018 - test_automation.py : runTestSuite - begin
+22_27_47_April_15_2018 - python_scripts.py : run - ### Begin ###
+22_27_47_April_15_2018 - generate_test_result_file.py : generateTestResultFile - begin
+22_27_47_April_15_2018 - generate_test_result_file.py : generateTestResultFile - end
+22_27_47_April_15_2018 - python_scripts.py : run - ### End ###
+22_27_47_April_15_2018 - test_automation.py : runTestSuite - end
+22_27_47_April_15_2018 - test_automation.py : main - after running test suite
+22_27_47_April_15_2018 - test_automation.py : generateTestResultReport - begin
+22_27_47_April_15_2018 - test_result_files.py : generateReport - begin
+22_27_47_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+22_27_47_April_15_2018 - test_result_files.py : findTestResultFiles - end
+22_27_47_April_15_2018 - test_result_files.py : getTestResultStats - begin
+22_27_47_April_15_2018 - test_result_files.py : getTestResultStats - end
+22_27_47_April_15_2018 - test_result_files.py : dumpStatsToFile - begin
+22_27_47_April_15_2018 - test_result_files.py : dumpStatsToFile - end
+22_27_47_April_15_2018 - test_result_files.py : generateReport - end
+22_27_47_April_15_2018 - test_automation.py : generateTestResultReport - end
+22_27_47_April_15_2018 - test_automation.py : main - after generating test result report
+22_27_47_April_15_2018 - test_automation.py : backupTestResults - begin
+22_27_47_April_15_2018 - test_result_files.py : backup - begin
+22_27_47_April_15_2018 - test_result_files.py : findTestResultFiles - begin
+22_27_47_April_15_2018 - test_result_files.py : findTestResultFiles - end
+22_27_47_April_15_2018 - test_result_files.py : backup - end
+22_27_47_April_15_2018 - test_automation.py : backupTestResults - end
+22_27_47_April_15_2018 - test_automation.py : main - after backup test result files
+22_27_47_April_15_2018 - test_automation.py : main - ### End ###
+
+19_46_13_April_16_2018 - test_result_files.py : cleanup - begin
+19_46_13_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+19_46_13_April_16_2018 - test_result_files.py : findTestResultFiles - end
+19_46_13_April_16_2018 - test_result_files.py : cleanup - Exception - [WinError 2] The system cannot find the file specified: 'C:\\Automation Suite\\Demo Test Suite\\test_result\\test_result_report.txt'
+19_46_13_April_16_2018 - test_result_files.py : cleanup - end
+19_46_13_April_16_2018 - test_automation.py : main - ### Begin ###
+19_46_13_April_16_2018 - test_automation.py : runTestSuite - begin
+19_46_13_April_16_2018 - python_scripts.py : run - ### Begin ###
+19_46_14_April_16_2018 - generate_test_result_file.py : generateTestResultFile - begin
+19_46_14_April_16_2018 - generate_test_result_file.py : generateTestResultFile - end
+19_46_14_April_16_2018 - generate_test_result_file.py : generateTestResultFile - begin
+19_46_14_April_16_2018 - generate_test_result_file.py : generateTestResultFile - end
+19_46_14_April_16_2018 - python_scripts.py : run - ### End ###
+19_46_14_April_16_2018 - test_automation.py : runTestSuite - end
+19_46_14_April_16_2018 - test_automation.py : main - after running test suite
+19_46_14_April_16_2018 - test_automation.py : generateTestResultReport - begin
+19_46_14_April_16_2018 - test_result_files.py : generateReport - begin
+19_46_14_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+19_46_14_April_16_2018 - test_result_files.py : findTestResultFiles - end
+19_46_14_April_16_2018 - test_result_files.py : getTestResultStats - begin
+19_46_14_April_16_2018 - test_result_files.py : getTestResultStats - end
+19_46_14_April_16_2018 - test_result_files.py : dumpStatsToFile - begin
+19_46_14_April_16_2018 - test_result_files.py : dumpStatsToFile - end
+19_46_14_April_16_2018 - test_result_files.py : generateReport - end
+19_46_14_April_16_2018 - test_automation.py : generateTestResultReport - end
+19_46_14_April_16_2018 - test_automation.py : main - after generating test result report
+19_46_14_April_16_2018 - test_automation.py : backupTestResults - begin
+19_46_14_April_16_2018 - test_result_files.py : backup - begin
+19_46_14_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+19_46_14_April_16_2018 - test_result_files.py : findTestResultFiles - end
+19_46_14_April_16_2018 - test_result_files.py : backup - end
+19_46_14_April_16_2018 - test_automation.py : backupTestResults - end
+19_46_14_April_16_2018 - test_automation.py : main - after backup test result files
+19_46_14_April_16_2018 - test_automation.py : main - ### End ###
+
+19_47_03_April_16_2018 - test_result_files.py : cleanup - begin
+19_47_03_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+19_47_03_April_16_2018 - test_result_files.py : findTestResultFiles - end
+19_47_03_April_16_2018 - test_result_files.py : cleanup - Exception - [WinError 2] The system cannot find the file specified: 'C:\\Automation Suite\\Demo Test Suite\\test_result\\test_result_report.txt'
+19_47_03_April_16_2018 - test_result_files.py : cleanup - end
+19_47_03_April_16_2018 - test_automation.py : main - ### Begin ###
+19_47_03_April_16_2018 - test_automation.py : runTestSuite - begin
+19_47_03_April_16_2018 - python_scripts.py : run - ### Begin ###
+19_47_28_April_16_2018 - generate_test_result_file.py : generateTestResultFile - begin
+19_47_28_April_16_2018 - generate_test_result_file.py : generateTestResultFile - end
+19_48_01_April_16_2018 - generate_test_result_file.py : generateTestResultFile - begin
+19_48_01_April_16_2018 - generate_test_result_file.py : generateTestResultFile - end
+19_48_01_April_16_2018 - python_scripts.py : run - ### End ###
+19_48_01_April_16_2018 - test_automation.py : runTestSuite - end
+19_48_01_April_16_2018 - test_automation.py : main - after running test suite
+19_48_01_April_16_2018 - test_automation.py : generateTestResultReport - begin
+19_48_01_April_16_2018 - test_result_files.py : generateReport - begin
+19_48_01_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+19_48_01_April_16_2018 - test_result_files.py : findTestResultFiles - end
+19_48_01_April_16_2018 - test_result_files.py : getTestResultStats - begin
+19_48_01_April_16_2018 - test_result_files.py : getTestResultStats - end
+19_48_01_April_16_2018 - test_result_files.py : dumpStatsToFile - begin
+19_48_01_April_16_2018 - test_result_files.py : dumpStatsToFile - end
+19_48_01_April_16_2018 - test_result_files.py : generateReport - end
+19_48_01_April_16_2018 - test_automation.py : generateTestResultReport - end
+19_48_01_April_16_2018 - test_automation.py : main - after generating test result report
+19_48_01_April_16_2018 - test_automation.py : backupTestResults - begin
+19_48_01_April_16_2018 - test_result_files.py : backup - begin
+19_48_01_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+19_48_01_April_16_2018 - test_result_files.py : findTestResultFiles - end
+19_48_01_April_16_2018 - test_result_files.py : backup - end
+19_48_01_April_16_2018 - test_automation.py : backupTestResults - end
+19_48_01_April_16_2018 - test_automation.py : main - after backup test result files
+19_48_01_April_16_2018 - test_automation.py : main - ### End ###
+
+19_52_43_April_16_2018 - test_result_files.py : cleanup - begin
+19_52_43_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+19_52_43_April_16_2018 - test_result_files.py : findTestResultFiles - end
+19_52_43_April_16_2018 - test_result_files.py : cleanup - Exception - [WinError 2] The system cannot find the file specified: 'C:\\Automation Suite\\Demo Test Suite\\test_result\\test_result_report.txt'
+19_52_43_April_16_2018 - test_result_files.py : cleanup - end
+19_52_43_April_16_2018 - test_automation.py : main - ### Begin ###
+19_52_43_April_16_2018 - test_automation.py : runTestSuite - begin
+19_52_43_April_16_2018 - python_scripts.py : run - ### Begin ###
+19_52_58_April_16_2018 - generate_test_result_file.py : generateTestResultFile - begin
+19_52_58_April_16_2018 - generate_test_result_file.py : generateTestResultFile - end
+19_56_07_April_16_2018 - test_result_files.py : cleanup - begin
+19_56_07_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+19_56_07_April_16_2018 - test_result_files.py : findTestResultFiles - end
+19_56_07_April_16_2018 - test_result_files.py : cleanup - end
+19_56_07_April_16_2018 - test_automation.py : main - ### Begin ###
+19_56_07_April_16_2018 - test_automation.py : runTestSuite - begin
+19_56_07_April_16_2018 - python_scripts.py : run - ### Begin ###
+19_56_23_April_16_2018 - generate_test_result_file.py : generateTestResultFile - begin
+19_56_23_April_16_2018 - generate_test_result_file.py : generateTestResultFile - end
+19_56_39_April_16_2018 - generate_test_result_file.py : generateTestResultFile - begin
+19_56_39_April_16_2018 - generate_test_result_file.py : generateTestResultFile - end
+19_56_39_April_16_2018 - python_scripts.py : run - ### End ###
+19_56_39_April_16_2018 - test_automation.py : runTestSuite - end
+19_56_39_April_16_2018 - test_automation.py : main - after running test suite
+19_56_39_April_16_2018 - test_automation.py : generateTestResultReport - begin
+19_56_39_April_16_2018 - test_result_files.py : generateReport - begin
+19_56_39_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+19_56_39_April_16_2018 - test_result_files.py : findTestResultFiles - end
+19_56_39_April_16_2018 - test_result_files.py : getTestResultStats - begin
+19_56_39_April_16_2018 - test_result_files.py : getTestResultStats - end
+19_56_39_April_16_2018 - test_result_files.py : dumpStatsToFile - begin
+19_56_39_April_16_2018 - test_result_files.py : dumpStatsToFile - end
+19_56_39_April_16_2018 - test_result_files.py : generateReport - end
+19_56_39_April_16_2018 - test_automation.py : generateTestResultReport - end
+19_56_39_April_16_2018 - test_automation.py : main - after generating test result report
+19_56_39_April_16_2018 - test_automation.py : backupTestResults - begin
+19_56_39_April_16_2018 - test_result_files.py : backup - begin
+19_56_39_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+19_56_39_April_16_2018 - test_result_files.py : findTestResultFiles - end
+19_56_39_April_16_2018 - test_result_files.py : backup - end
+19_56_39_April_16_2018 - test_automation.py : backupTestResults - end
+19_56_39_April_16_2018 - test_automation.py : main - after backup test result files
+19_56_39_April_16_2018 - test_automation.py : main - ### End ###
+
+21_13_06_April_16_2018 - test_result_files.py : cleanup - begin
+21_13_06_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+21_13_06_April_16_2018 - test_result_files.py : findTestResultFiles - end
+21_13_06_April_16_2018 - test_result_files.py : cleanup - end
+21_13_06_April_16_2018 - test_automation.py : main - ### Begin ###
+21_13_06_April_16_2018 - test_automation.py : runTestSuite - begin
+21_13_06_April_16_2018 - python_scripts.py : run - ### Begin ###
+21_13_28_April_16_2018 - generate_test_result_file.py : generateTestResultFile - begin
+21_13_28_April_16_2018 - generate_test_result_file.py : generateTestResultFile - end
+21_13_58_April_16_2018 - generate_test_result_file.py : generateTestResultFile - begin
+21_13_58_April_16_2018 - generate_test_result_file.py : generateTestResultFile - end
+21_13_58_April_16_2018 - python_scripts.py : run - ### End ###
+21_13_58_April_16_2018 - test_automation.py : runTestSuite - end
+21_13_58_April_16_2018 - test_automation.py : main - after running test suite
+21_13_58_April_16_2018 - test_automation.py : generateTestResultReport - begin
+21_13_58_April_16_2018 - test_result_files.py : generateReport - begin
+21_13_58_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+21_13_58_April_16_2018 - test_result_files.py : findTestResultFiles - end
+21_13_58_April_16_2018 - test_result_files.py : getTestResultStats - begin
+21_13_58_April_16_2018 - test_result_files.py : getTestResultStats - end
+21_13_58_April_16_2018 - test_result_files.py : dumpStatsToFile - begin
+21_13_58_April_16_2018 - test_result_files.py : dumpStatsToFile - end
+21_13_58_April_16_2018 - test_result_files.py : generateReport - end
+21_13_58_April_16_2018 - test_automation.py : generateTestResultReport - end
+21_13_58_April_16_2018 - test_automation.py : main - after generating test result report
+21_13_58_April_16_2018 - test_automation.py : backupTestResults - begin
+21_13_58_April_16_2018 - test_result_files.py : backup - begin
+21_13_58_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+21_13_58_April_16_2018 - test_result_files.py : findTestResultFiles - end
+21_13_58_April_16_2018 - test_result_files.py : backup - end
+21_13_58_April_16_2018 - test_automation.py : backupTestResults - end
+21_13_58_April_16_2018 - test_automation.py : main - after backup test result files
+21_13_58_April_16_2018 - test_automation.py : main - ### End ###
+
+21_48_07_April_16_2018 - test_result_files.py : cleanup - begin
+21_48_07_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+21_48_07_April_16_2018 - test_result_files.py : findTestResultFiles - end
+21_48_07_April_16_2018 - test_result_files.py : cleanup - end
+21_48_07_April_16_2018 - test_automation.py : main - ### Begin ###
+21_48_07_April_16_2018 - test_automation.py : runTestSuite - begin
+21_48_07_April_16_2018 - python_scripts.py : run - ### Begin ###
+21_48_24_April_16_2018 - generate_test_result_file.py : generateTestResultFile - begin
+21_48_24_April_16_2018 - generate_test_result_file.py : generateTestResultFile - end
+21_48_39_April_16_2018 - generate_test_result_file.py : generateTestResultFile - begin
+21_48_39_April_16_2018 - generate_test_result_file.py : generateTestResultFile - end
+21_48_39_April_16_2018 - python_scripts.py : run - ### End ###
+21_48_39_April_16_2018 - test_automation.py : runTestSuite - end
+21_48_39_April_16_2018 - test_automation.py : main - after running test suite
+21_48_39_April_16_2018 - test_automation.py : generateTestResultReport - begin
+21_48_39_April_16_2018 - test_result_files.py : generateReport - begin
+21_48_39_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+21_48_39_April_16_2018 - test_result_files.py : findTestResultFiles - end
+21_48_39_April_16_2018 - test_result_files.py : getTestResultStats - begin
+21_48_39_April_16_2018 - test_result_files.py : getTestResultStats - end
+21_48_39_April_16_2018 - test_result_files.py : dumpStatsToFile - begin
+21_48_39_April_16_2018 - test_result_files.py : dumpStatsToFile - end
+21_48_40_April_16_2018 - test_result_files.py : generateReport - end
+21_48_40_April_16_2018 - test_automation.py : generateTestResultReport - end
+21_48_40_April_16_2018 - test_automation.py : main - after generating test result report
+21_48_40_April_16_2018 - test_automation.py : backupTestResults - begin
+21_48_40_April_16_2018 - test_result_files.py : backup - begin
+21_48_40_April_16_2018 - test_result_files.py : findTestResultFiles - begin
+21_48_40_April_16_2018 - test_result_files.py : findTestResultFiles - end
+21_48_40_April_16_2018 - test_result_files.py : backup - end
+21_48_40_April_16_2018 - test_automation.py : backupTestResults - end
+21_48_40_April_16_2018 - test_automation.py : main - after backup test result files
+21_48_40_April_16_2018 - test_automation.py : main - ### End ###
+
+22_02_31_April_17_2018 - test_result_files.py : cleanup - begin
+22_02_31_April_17_2018 - test_result_files.py : findTestResultFiles - begin
+22_02_31_April_17_2018 - test_result_files.py : findTestResultFiles - end
+22_02_31_April_17_2018 - test_result_files.py : cleanup - end
+22_02_31_April_17_2018 - test_automation.py : main - ### Begin ###
+22_02_31_April_17_2018 - test_automation.py : runTestSuite - begin
+22_02_31_April_17_2018 - python_scripts.py : run - ### Begin ###
+22_02_31_April_17_2018 - python_scripts.py : run - Exception - 'PythonScripts' object has no attribute 'server'
+22_02_31_April_17_2018 - python_scripts.py : run - Exception - 'PythonScripts' object has no attribute 'server'
+22_02_31_April_17_2018 - python_scripts.py : run - Exception - 'PythonScripts' object has no attribute 'server'
+22_02_31_April_17_2018 - python_scripts.py : run - Exception - 'PythonScripts' object has no attribute 'server'
+22_02_31_April_17_2018 - python_scripts.py : run - ### End ###
+22_02_31_April_17_2018 - test_automation.py : runTestSuite - end
+22_02_31_April_17_2018 - test_automation.py : main - after running test suite
+22_02_31_April_17_2018 - test_automation.py : generateTestResultReport - begin
+22_02_31_April_17_2018 - test_result_files.py : generateReport - begin
+22_02_31_April_17_2018 - test_result_files.py : findTestResultFiles - begin
+22_02_31_April_17_2018 - test_result_files.py : findTestResultFiles - end
+22_02_31_April_17_2018 - test_result_files.py : getTestResultStats - begin
+22_02_31_April_17_2018 - test_result_files.py : getTestResultStats - end
+22_02_31_April_17_2018 - test_result_files.py : dumpStatsToFile - begin
+22_02_31_April_17_2018 - test_result_files.py : dumpStatsToFile - end
+22_02_31_April_17_2018 - test_result_files.py : generateReport - end
+22_02_31_April_17_2018 - test_automation.py : generateTestResultReport - end
+22_02_31_April_17_2018 - test_automation.py : main - after generating test result report
+22_02_31_April_17_2018 - test_automation.py : backupTestResults - begin
+22_02_31_April_17_2018 - test_result_files.py : backup - begin
+22_02_31_April_17_2018 - test_result_files.py : findTestResultFiles - begin
+22_02_31_April_17_2018 - test_result_files.py : findTestResultFiles - end
+22_02_31_April_17_2018 - test_automation.py : backupTestResults - end
+22_02_31_April_17_2018 - test_automation.py : main - after backup test result files
+22_02_31_April_17_2018 - test_automation.py : main - ### End ###
+
+22_05_53_April_17_2018 - test_result_files.py : cleanup - begin
+22_05_53_April_17_2018 - test_result_files.py : findTestResultFiles - begin
+22_05_53_April_17_2018 - test_result_files.py : findTestResultFiles - end
+22_05_53_April_17_2018 - test_result_files.py : cleanup - end
+22_05_53_April_17_2018 - test_automation.py : main - ### Begin ###
+22_05_53_April_17_2018 - test_automation.py : runTestSuite - begin
+22_05_53_April_17_2018 - python_scripts.py : run - ### Begin ###
+22_05_53_April_17_2018 - python_scripts.py : run - Exception - 'PythonScripts' object has no attribute 'server'
+22_05_53_April_17_2018 - python_scripts.py : run - Exception - 'PythonScripts' object has no attribute 'server'
+22_05_53_April_17_2018 - python_scripts.py : run - Exception - 'PythonScripts' object has no attribute 'server'
+22_05_53_April_17_2018 - python_scripts.py : run - Exception - 'PythonScripts' object has no attribute 'server'
+22_05_53_April_17_2018 - python_scripts.py : run - ### End ###
+22_05_53_April_17_2018 - test_automation.py : runTestSuite - end
+22_05_53_April_17_2018 - test_automation.py : main - after running test suite
+22_05_53_April_17_2018 - test_automation.py : generateTestResultReport - begin
+22_05_54_April_17_2018 - test_result_files.py : generateReport - begin
+22_05_54_April_17_2018 - test_result_files.py : findTestResultFiles - begin
+22_05_54_April_17_2018 - test_result_files.py : findTestResultFiles - end
+22_05_54_April_17_2018 - test_result_files.py : getTestResultStats - begin
+22_05_54_April_17_2018 - test_result_files.py : getTestResultStats - end
+22_05_54_April_17_2018 - test_result_files.py : dumpStatsToFile - begin
+22_05_54_April_17_2018 - test_result_files.py : dumpStatsToFile - end
+22_05_54_April_17_2018 - test_result_files.py : generateReport - end
+22_05_54_April_17_2018 - test_automation.py : generateTestResultReport - end
+22_05_54_April_17_2018 - test_automation.py : main - after generating test result report
+22_05_54_April_17_2018 - test_automation.py : backupTestResults - begin
+22_05_54_April_17_2018 - test_result_files.py : backup - begin
+22_05_54_April_17_2018 - test_result_files.py : findTestResultFiles - begin
+22_05_54_April_17_2018 - test_result_files.py : findTestResultFiles - end
+22_05_54_April_17_2018 - test_automation.py : backupTestResults - end
+22_05_54_April_17_2018 - test_automation.py : main - after backup test result files
+22_05_54_April_17_2018 - test_automation.py : main - ### End ###
+
+22_06_39_April_17_2018 - test_result_files.py : cleanup - begin
+22_06_39_April_17_2018 - test_result_files.py : findTestResultFiles - begin
+22_06_39_April_17_2018 - test_result_files.py : findTestResultFiles - end
+22_06_39_April_17_2018 - test_result_files.py : cleanup - end
+22_06_39_April_17_2018 - test_automation.py : main - ### Begin ###
+22_06_39_April_17_2018 - test_automation.py : runTestSuite - begin
+22_06_39_April_17_2018 - python_scripts.py : run - ### Begin ###
+22_06_39_April_17_2018 - generate_test_result_file.py : generateTestResultFile - begin
+22_06_39_April_17_2018 - generate_test_result_file.py : generateTestResultFile - end
+22_06_39_April_17_2018 - generate_test_result_file.py : generateTestResultFile - begin
+22_06_39_April_17_2018 - generate_test_result_file.py : generateTestResultFile - end
+22_06_39_April_17_2018 - generate_test_result_file.py : generateTestResultFile - begin
+22_06_39_April_17_2018 - generate_test_result_file.py : generateTestResultFile - end
+22_06_39_April_17_2018 - generate_test_result_file.py : generateTestResultFile - begin
+22_06_39_April_17_2018 - generate_test_result_file.py : generateTestResultFile - end
+22_06_39_April_17_2018 - python_scripts.py : run - ### End ###
+22_06_39_April_17_2018 - test_automation.py : runTestSuite - end
+22_06_39_April_17_2018 - test_automation.py : main - after running test suite
+22_06_39_April_17_2018 - test_automation.py : generateTestResultReport - begin
+22_06_39_April_17_2018 - test_result_files.py : generateReport - begin
+22_06_39_April_17_2018 - test_result_files.py : findTestResultFiles - begin
+22_06_39_April_17_2018 - test_result_files.py : findTestResultFiles - end
+22_06_39_April_17_2018 - test_result_files.py : getTestResultStats - begin
+22_06_39_April_17_2018 - test_result_files.py : getTestResultStats - end
+22_06_39_April_17_2018 - test_result_files.py : dumpStatsToFile - begin
+22_06_39_April_17_2018 - test_result_files.py : dumpStatsToFile - end
+22_06_39_April_17_2018 - test_result_files.py : generateReport - end
+22_06_39_April_17_2018 - test_automation.py : generateTestResultReport - end
+22_06_39_April_17_2018 - test_automation.py : main - after generating test result report
+22_06_39_April_17_2018 - test_automation.py : backupTestResults - begin
+22_06_39_April_17_2018 - test_result_files.py : backup - begin
+22_06_39_April_17_2018 - test_result_files.py : findTestResultFiles - begin
+22_06_39_April_17_2018 - test_result_files.py : findTestResultFiles - end
+22_06_39_April_17_2018 - test_result_files.py : backup - end
+22_06_39_April_17_2018 - test_automation.py : backupTestResults - end
+22_06_39_April_17_2018 - test_automation.py : main - after backup test result files
+22_06_39_April_17_2018 - test_automation.py : main - ### End ###
+
+22_08_00_April_17_2018 - test_result_files.py : cleanup - begin
+22_08_00_April_17_2018 - test_result_files.py : findTestResultFiles - begin
+22_08_00_April_17_2018 - test_result_files.py : findTestResultFiles - end
+22_08_00_April_17_2018 - test_result_files.py : cleanup - end
+22_08_00_April_17_2018 - test_automation.py : main - ### Begin ###
+22_08_00_April_17_2018 - test_automation.py : runTestSuite - begin
+22_08_00_April_17_2018 - python_scripts.py : run - ### Begin ###
+22_08_00_April_17_2018 - generate_test_result_file.py : generateTestResultFile - begin
+22_08_00_April_17_2018 - generate_test_result_file.py : generateTestResultFile - end
+22_08_00_April_17_2018 - python_scripts.py : run - ### End ###
+22_08_00_April_17_2018 - test_automation.py : runTestSuite - end
+22_08_00_April_17_2018 - test_automation.py : main - after running test suite
+22_08_00_April_17_2018 - test_automation.py : generateTestResultReport - begin
+22_08_00_April_17_2018 - test_result_files.py : generateReport - begin
+22_08_00_April_17_2018 - test_result_files.py : findTestResultFiles - begin
+22_08_00_April_17_2018 - test_result_files.py : findTestResultFiles - end
+22_08_00_April_17_2018 - test_result_files.py : getTestResultStats - begin
+22_08_00_April_17_2018 - test_result_files.py : getTestResultStats - end
+22_08_00_April_17_2018 - test_result_files.py : dumpStatsToFile - begin
+22_08_00_April_17_2018 - test_result_files.py : dumpStatsToFile - end
+22_08_00_April_17_2018 - test_result_files.py : generateReport - end
+22_08_00_April_17_2018 - test_automation.py : generateTestResultReport - end
+22_08_00_April_17_2018 - test_automation.py : main - after generating test result report
+22_08_00_April_17_2018 - test_automation.py : backupTestResults - begin
+22_08_00_April_17_2018 - test_result_files.py : backup - begin
+22_08_00_April_17_2018 - test_result_files.py : findTestResultFiles - begin
+22_08_00_April_17_2018 - test_result_files.py : findTestResultFiles - end
+22_08_00_April_17_2018 - test_result_files.py : backup - end
+22_08_00_April_17_2018 - test_automation.py : backupTestResults - end
+22_08_00_April_17_2018 - test_automation.py : main - after backup test result files
+22_08_00_April_17_2018 - test_automation.py : main - ### End ###
+
+21_54_03_April_18_2018 - test_result_files.py : cleanup - begin
+21_54_03_April_18_2018 - test_result_files.py : findTestResultFiles - begin
+21_54_03_April_18_2018 - test_result_files.py : findTestResultFiles - end
+21_54_03_April_18_2018 - test_result_files.py : cleanup - end
+21_54_03_April_18_2018 - test_automation.py : main - ### Begin ###
+21_54_03_April_18_2018 - test_automation.py : runTestSuite - begin
+21_54_03_April_18_2018 - python_scripts.py : run - ### Begin ###
+21_54_03_April_18_2018 - generate_test_result_file.py : generateTestResultFile - begin
+21_54_03_April_18_2018 - generate_test_result_file.py : generateTestResultFile - end
+21_54_03_April_18_2018 - python_scripts.py : run - ### End ###
+21_54_03_April_18_2018 - test_automation.py : runTestSuite - end
+21_54_03_April_18_2018 - test_automation.py : main - after running test suite
+21_54_03_April_18_2018 - test_automation.py : generateTestResultReport - begin
+21_54_03_April_18_2018 - test_result_files.py : generateReport - begin
+21_54_03_April_18_2018 - test_result_files.py : findTestResultFiles - begin
+21_54_03_April_18_2018 - test_result_files.py : findTestResultFiles - end
+21_54_03_April_18_2018 - test_result_files.py : getTestResultStats - begin
+21_54_03_April_18_2018 - test_result_files.py : getTestResultStats - end
+21_54_03_April_18_2018 - test_result_files.py : dumpStatsToFile - begin
+21_54_03_April_18_2018 - test_result_files.py : dumpStatsToFile - end
+21_54_03_April_18_2018 - test_result_files.py : generateReport - end
+21_54_03_April_18_2018 - test_automation.py : generateTestResultReport - end
+21_54_03_April_18_2018 - test_automation.py : main - after generating test result report
+21_54_03_April_18_2018 - test_automation.py : backupTestResults - begin
+21_54_04_April_18_2018 - test_result_files.py : backup - begin
+21_54_04_April_18_2018 - test_result_files.py : findTestResultFiles - begin
+21_54_04_April_18_2018 - test_result_files.py : findTestResultFiles - end
+21_54_04_April_18_2018 - test_result_files.py : backup - end
+21_54_04_April_18_2018 - test_automation.py : backupTestResults - end
+21_54_04_April_18_2018 - test_automation.py : main - after backup test result files
+21_54_04_April_18_2018 - test_automation.py : main - ### End ###
+
+22_11_35_April_18_2018 - test_result_files.py : cleanup - begin
+22_11_35_April_18_2018 - test_result_files.py : findTestResultFiles - begin
+22_11_35_April_18_2018 - test_result_files.py : findTestResultFiles - end
+22_11_35_April_18_2018 - test_result_files.py : cleanup - end
+22_11_35_April_18_2018 - test_automation.py : main - ### Begin ###
+22_11_35_April_18_2018 - test_automation.py : runTestSuite - begin
+22_11_35_April_18_2018 - python_scripts.py : run - ### Begin ###
+22_11_35_April_18_2018 - generate_test_result_file.py : generateTestResultFile - begin
+22_11_35_April_18_2018 - generate_test_result_file.py : generateTestResultFile - end
+22_11_35_April_18_2018 - python_scripts.py : run - ### End ###
+22_11_35_April_18_2018 - test_automation.py : runTestSuite - end
+22_11_35_April_18_2018 - test_automation.py : main - after running test suite
+22_11_35_April_18_2018 - test_automation.py : generateTestResultReport - begin
+22_11_35_April_18_2018 - test_result_files.py : generateReport - begin
+22_11_35_April_18_2018 - test_result_files.py : findTestResultFiles - begin
+22_11_35_April_18_2018 - test_result_files.py : findTestResultFiles - end
+22_11_35_April_18_2018 - test_result_files.py : getTestResultStats - begin
+22_11_35_April_18_2018 - test_result_files.py : getTestResultStats - end
+22_11_35_April_18_2018 - test_result_files.py : dumpStatsToFile - begin
+22_11_35_April_18_2018 - test_result_files.py : dumpStatsToFile - end
+22_11_35_April_18_2018 - test_result_files.py : generateReport - end
+22_11_35_April_18_2018 - test_automation.py : generateTestResultReport - end
+22_11_35_April_18_2018 - test_automation.py : main - after generating test result report
+22_11_35_April_18_2018 - test_automation.py : backupTestResults - begin
+22_11_35_April_18_2018 - test_result_files.py : backup - begin
+22_11_35_April_18_2018 - test_result_files.py : findTestResultFiles - begin
+22_11_35_April_18_2018 - test_result_files.py : findTestResultFiles - end
+22_11_35_April_18_2018 - test_result_files.py : backup - end
+22_11_35_April_18_2018 - test_automation.py : backupTestResults - end
+22_11_35_April_18_2018 - test_automation.py : main - after backup test result files
+22_11_35_April_18_2018 - test_automation.py : main - ### End ###
+
+22_12_35_April_18_2018 - test_result_files.py : cleanup - begin
+22_12_35_April_18_2018 - test_result_files.py : findTestResultFiles - begin
+22_12_35_April_18_2018 - test_result_files.py : findTestResultFiles - end
+22_12_35_April_18_2018 - test_result_files.py : cleanup - end
+22_12_35_April_18_2018 - test_automation.py : main - ### Begin ###
+22_12_35_April_18_2018 - test_automation.py : runTestSuite - begin
+22_12_35_April_18_2018 - python_scripts.py : run - ### Begin ###
+22_12_35_April_18_2018 - generate_test_result_file.py : generateTestResultFile - begin
+22_12_35_April_18_2018 - generate_test_result_file.py : generateTestResultFile - end
+22_12_35_April_18_2018 - python_scripts.py : run - ### End ###
+22_12_35_April_18_2018 - test_automation.py : runTestSuite - end
+22_12_35_April_18_2018 - test_automation.py : main - after running test suite
+22_12_35_April_18_2018 - test_automation.py : generateTestResultReport - begin
+22_12_35_April_18_2018 - test_result_files.py : generateReport - begin
+22_12_35_April_18_2018 - test_result_files.py : findTestResultFiles - begin
+22_12_35_April_18_2018 - test_result_files.py : findTestResultFiles - end
+22_12_35_April_18_2018 - test_result_files.py : getTestResultStats - begin
+22_12_35_April_18_2018 - test_result_files.py : getTestResultStats - end
+22_12_35_April_18_2018 - test_result_files.py : dumpStatsToFile - begin
+22_12_35_April_18_2018 - test_result_files.py : dumpStatsToFile - end
+22_12_35_April_18_2018 - test_result_files.py : generateReport - end
+22_12_35_April_18_2018 - test_automation.py : generateTestResultReport - end
+22_12_35_April_18_2018 - test_automation.py : main - after generating test result report
+22_12_35_April_18_2018 - test_automation.py : backupTestResults - begin
+22_12_35_April_18_2018 - test_result_files.py : backup - begin
+22_12_35_April_18_2018 - test_result_files.py : findTestResultFiles - begin
+22_12_35_April_18_2018 - test_result_files.py : findTestResultFiles - end
+22_12_35_April_18_2018 - test_result_files.py : backup - end
+22_12_35_April_18_2018 - test_automation.py : backupTestResults - end
+22_12_35_April_18_2018 - test_automation.py : main - after backup test result files
+22_12_35_April_18_2018 - test_automation.py : main - ### End ###
+
+22_13_53_April_18_2018 - test_result_files.py : cleanup - begin
+22_13_53_April_18_2018 - test_result_files.py : findTestResultFiles - begin
+22_13_53_April_18_2018 - test_result_files.py : findTestResultFiles - end
+22_13_53_April_18_2018 - test_result_files.py : cleanup - end
+22_13_53_April_18_2018 - test_automation.py : main - ### Begin ###
+22_13_53_April_18_2018 - test_automation.py : runTestSuite - begin
+22_13_53_April_18_2018 - python_scripts.py : run - ### Begin ###
+22_13_53_April_18_2018 - generate_test_result_file.py : generateTestResultFile - begin
+22_13_53_April_18_2018 - generate_test_result_file.py : generateTestResultFile - end
+22_13_53_April_18_2018 - python_scripts.py : run - ### End ###
+22_13_53_April_18_2018 - test_automation.py : runTestSuite - end
+22_13_53_April_18_2018 - test_automation.py : main - after running test suite
+22_13_53_April_18_2018 - test_automation.py : generateTestResultReport - begin
+22_13_53_April_18_2018 - test_result_files.py : generateReport - begin
+22_13_53_April_18_2018 - test_result_files.py : findTestResultFiles - begin
+22_13_53_April_18_2018 - test_result_files.py : findTestResultFiles - end
+22_13_53_April_18_2018 - test_result_files.py : getTestResultStats - begin
+22_13_53_April_18_2018 - test_result_files.py : getTestResultStats - end
+22_13_53_April_18_2018 - test_result_files.py : dumpStatsToFile - begin
+22_13_53_April_18_2018 - test_result_files.py : dumpStatsToFile - end
+22_13_53_April_18_2018 - test_result_files.py : generateReport - end
+22_13_53_April_18_2018 - test_automation.py : generateTestResultReport - end
+22_13_53_April_18_2018 - test_automation.py : main - after generating test result report
+22_13_53_April_18_2018 - test_automation.py : backupTestResults - begin
+22_13_53_April_18_2018 - test_result_files.py : backup - begin
+22_13_53_April_18_2018 - test_result_files.py : findTestResultFiles - begin
+22_13_53_April_18_2018 - test_result_files.py : findTestResultFiles - end
+22_13_53_April_18_2018 - test_result_files.py : backup - end
+22_13_53_April_18_2018 - test_automation.py : backupTestResults - end
+22_13_53_April_18_2018 - test_automation.py : main - after backup test result files
+22_13_53_April_18_2018 - test_automation.py : main - ### End ###
+

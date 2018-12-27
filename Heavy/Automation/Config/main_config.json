@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "rootPath": "C:\\Automation Suite",
+  "logLevel": 10,
+  "deleteLog": false,
+  "testPlatform": "python",
+  "testSuitePath": "C:\\Automation Suite\\Demo Test Suite",
+  "runTestSuite": true,
+  "generateTestResultReport": true
+}

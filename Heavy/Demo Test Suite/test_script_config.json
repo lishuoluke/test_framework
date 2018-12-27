@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "softwareVersion": "1.0.0",
+  "idleBetweenScriptsInSeconds": 0,
+  "Test Server":"Server 3",
+
+  "scripts": [
+    {
+      "filename": "testcase1",
+      "caseId": 1,
+      "Server": "Server 1"
+
+    },
+    {
+      "filename": "testcase2",
+      "caseId": 2,
+      "Server": "Server 2"
+
+    },
+    {
+      "filename": "testcase3",
+      "caseId": 3,
+      "Server": "Server 3"
+
+    },
+    {
+      "filename": "testcase4",
+      "caseId": 4,
+      "Server": "Server 4"
+
+    }
+  ],
+   "Server Address":[
+     {
+       "Server": "Server 1",
+       "Address": "http://google.com"
+     },
+     {
+       "Server": "Server 2",
+       "Address": "http://yahoo.com"
+     },
+     {
+       "Server": "Server 3",
+       "Address": "http://baidu.com"
+     }
+    ]
+}

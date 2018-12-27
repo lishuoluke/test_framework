@@ -1,0 +1,7 @@
+{
+    "passed": 1,
+    "blocked": 0,
+    "untested": 0,
+    "retest": 0,
+    "failed": 0
+}
